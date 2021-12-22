@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pax!
+- 👀 I’m interested in Ren'Py and web development
+- 🌱 I’m currently learning Python and HTML
+- 💞️ I’m not looking to collaborate right now but I'll update this when I am :)
+- 📫 You can contact me on **Discord**: paxelated_#7658 or **Twitter**: @paxelated_
